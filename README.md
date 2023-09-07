@@ -12,4 +12,6 @@ npm run start
 ```bash
 npm run build
 
-https://github.com/vitejs/vite-plugin-react-swc
+```
+
+<https://github.com/vitejs/vite-plugin-react-swc>
